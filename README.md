@@ -1,6 +1,6 @@
 # Movie and TVShow Catalogue
 
-### NodeJS Final Project
+## NodeJS Final Project
 
 App where users can view a huge catalogue of movies and tv shows, create a personal list, leave likes and comments.
 
